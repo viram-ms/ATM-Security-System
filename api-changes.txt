@@ -1,0 +1,1 @@
+1. handle Login api: It should check whether the number is of HD or not. Frontend will send number and string "HD".
